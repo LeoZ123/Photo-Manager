@@ -7,7 +7,7 @@ package photomanager;
 
 /**
  *
- * @author hhh
+ * @author Leo Zhong
  */
 public class ChooseFIle extends javax.swing.JFrame {
 

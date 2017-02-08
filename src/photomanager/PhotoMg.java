@@ -7,7 +7,7 @@ package photomanager;
 
 /**
  *
- * @author hhh
+ * @author Leo Zhong
  */
 public class PhotoMg extends javax.swing.JFrame {
 
